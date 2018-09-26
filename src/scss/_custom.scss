@@ -1,0 +1,35 @@
+// Here you can add other styles
+
+
+@import "populix/pages/splash.scss";
+@import "populix/pages/login.scss";
+@import "populix/pages/home.scss";
+@import "populix/pages/welcome.scss";
+@import "populix/pages/prescreening.scss";
+
+
+//////component
+
+@import "populix/component/button.scss";
+@import "populix/component/form.scss";
+
+
+
+
+
+
+body{
+    background: '#fff';
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.bg-white{
+	background: '#fff';
+}
+
+
+.preline{
+
+	border-left: 1px solid #EDEFF2;
+}

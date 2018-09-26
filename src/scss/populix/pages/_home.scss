@@ -1,0 +1,135 @@
+//////////
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    height: 80px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #EDEFF2;
+}
+
+.nav-link{
+
+   color:#179dfe;
+   font-size:12px;
+   font-family: $populix-open;
+   font-weight:600;
+
+}
+
+.bg{
+
+  background: url('http://localhost:3000/assets/img/bg.png') no-repeat center center;
+  height:500px; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+////////
+
+.top-nav{
+
+	font-size:12px;
+	font-family: $populix-open;
+
+	a{
+      color: $populix-blue-dark;
+	}
+}
+
+
+.partners{
+	padding-top:20px;
+	padding-bottom:20px;
+	height:120px;
+	background:#Fff;
+}
+
+
+.bg-blue{
+
+background:#179DFE;
+
+}
+
+
+.features{
+
+	 padding-top: 5rem; 
+ padding-bottom: 5rem;
+
+   h1{
+    
+     font-size:36px;
+	font-family: $populix-open;
+	font-weight:600;
+	line-height:48px;
+
+   }
+
+   h4{
+    
+     font-size:20px;
+	font-family: $populix-open;
+	font-weight:600;
+	line-height:48px;
+
+   }
+
+   p{
+   	font-size:16px;
+	font-family: $populix-open;
+	font-weight:500;
+   }
+
+}
+
+
+.process{
+ padding-top: 5rem; 
+ padding-bottom: 5rem;
+font-family: $populix-open;
+
+}
+
+
+
+
+.nav-footer{
+
+	text-align: right;
+
+	.nav-link{
+
+		color:#858585;
+		font-size:12px;
+		font-weight:400;
+		padding: .5rem 1.5rem;
+	}
+}
+
+
+
+
+
+

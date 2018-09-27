@@ -131,5 +131,29 @@ font-family: $populix-open;
 
 
 
+.testimonial{
+
+  background:#f9f9f9;
+
+
+  .avatar-img{
+
+    position: relative;
+    margin-left: 40%;
+    margin-bottom: -40px;
+    z-index: 2;
+
+  }
+
+  .avatar-xl{
+
+    width:100px;
+    height:100px;
+  }
+
+}
+
+
+
 
 

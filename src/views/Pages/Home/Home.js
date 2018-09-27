@@ -8,6 +8,8 @@ import Jumbo from './Jumbo';
 import Partner from './Partner';
 import Features from './Features';
 import Process from './Process';
+import Testimonial from './Testimonial';
+import Download from './Download';
 
 import AppStore from '../../../stores/app.store';
 
@@ -35,6 +37,8 @@ class Home extends Component {
           <Partner />
           <Features />
           <Process />
+          <Testimonial />
+          <Download />
 
          </main>
 

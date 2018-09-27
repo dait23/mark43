@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Button, Jumbotron, Card, CardBody, CardGroup, Col, Container, Form, Input, InputGroup, InputGroupAddon, InputGroupText, Row } from 'reactstrap';
 import { inject, observer, Provider } from "mobx-react";
 
+
+
 import Header from '../Header';
 import Footer from '../Footer';
 import Jumbo from './Jumbo';

@@ -95,6 +95,23 @@ html {
     width: 100px;
     height: 100px; }
 
+.services, .teams {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 5rem;
+  padding-bottom: 5rem; }
+  .services h5, .teams h5 {
+    color: #10496D;
+    font-size: 20px;
+    font-weight: 600; }
+  .services h5, .teams h5 {
+    color: #10496D;
+    font-size: 24px;
+    font-weight: 600; }
+  .services p, .teams p {
+    color: #858585; }
+  .services .img-teams, .teams .img-teams {
+    width: 100%; }
+
 .welcome-member {
   font-size: 16px;
   font-weight: 500;
@@ -261,6 +278,25 @@ body {
 
 .preline {
   border-left: 1px solid #EDEFF2; }
+
+.cover {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 5rem;
+  padding-bottom: 5rem; }
+  .cover h2 {
+    font-size: 32px;
+    color: #10496D;
+    line-height: 48px; }
+  .cover p {
+    color: #858585;
+    font-size: 20px; }
+
+.bg-gradient {
+  background: #ffffff;
+  background: -moz-linear-gradient(top, #ffffff 0%, #f2fbfd 100%);
+  background: -webkit-linear-gradient(top, #ffffff 0%, #f2fbfd 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #f2fbfd 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2fbfd',GradientType=0 ); }
 
 html body .app.flex-row.align-items-center {
   height: 100vh; }

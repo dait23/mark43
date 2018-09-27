@@ -20,7 +20,7 @@ import './scss/style.css'
 
 
 // Pages
-import { Home } from './views/Pages';
+import { Home, About } from './views/Pages';
 
 // import { renderRoutes } from 'react-router-config';
 
@@ -34,6 +34,7 @@ class App extends Component {
 
         <Router>
          <Switch>
+          <Route exact path="/tentang-kami" name="About" component={About} />
           <Route path="/" name="Home" component={Home} />
          </Switch>
         </Router>

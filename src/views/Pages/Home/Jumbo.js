@@ -11,7 +11,7 @@ class Jumbo extends Component {
   render() {
 
     return (
-     <header className="header" style={{backgroundImage: 'url(assets/img/bg.png)', backgroundPosition:'bottom center', backgroundSize:'contain', backgroundRepeat:'no-repeat', height:500, paddingTop:'15%'}}>
+     <header className="header" style={{backgroundImage: 'url(assets/img/bg.png)'}}>
 
       <div className="container text-center">
 

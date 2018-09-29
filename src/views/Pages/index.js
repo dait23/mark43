@@ -9,6 +9,7 @@ import Welcome2 from './Welcome/Welcome2';
 import ForgotSend from './Forgot/Send';
 import Prescreening from './Prescreening';
 import About from './About';
+import Karir from './Karir';
 export {
   Splash,
   Login,
@@ -19,5 +20,6 @@ export {
   Welcome,
   Welcome2,
   Prescreening,
-  About
+  About,
+  Karir
 };

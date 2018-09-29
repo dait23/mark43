@@ -25,9 +25,12 @@ class Header extends Component {
             <a className="nav-link" href="#">Researcher</a>
             <a className="nav-link" href="tentang-kami">Tentang Kami</a>
             <a className="nav-link" href="#">Hubungi Kami</a>
-            <a className="nav-link" href="#">Masuk</a>
-            <a className="nav-link" href="#">Daftar</a>
+
           </nav>
+          <div>
+            <a className="btn btn-sm btn-primary ml-lg-5 mr-2" href="#">Masuk</a>
+            <a className="btn btn-sm btn-warning" href="#">Daftar</a>
+          </div>
         </section>
 
       </div>

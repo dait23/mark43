@@ -16,7 +16,17 @@ class Services extends Component {
 
       <section className="section services">
         <div className="container">
-        <header className="section-header">
+         <div className="row">
+            <div className="col-md-8 mx-auto">
+
+              <div className="video-wrapper ratio-16x9">
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/ZSH88zL6CCQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div>
+
+            </div>
+          </div>
+        <header className="section-header mt-7">
+
             <p>
     
          Populix adalah platform wawasan konsumer untuk membangun database dari responden yang berasal dari seluruh Indonesia untuk membantu bisnis, institusi akademi, pemerintah, dan juga NGO agar mereka dapat mendapatkan akses kepada data uang akurat, terpercaya dan berbasis real-time.

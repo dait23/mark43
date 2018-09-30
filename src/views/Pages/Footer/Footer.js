@@ -20,7 +20,7 @@ class Footer extends Component {
 
             <div className="col-md-6 text-right text-md-right">
               <div className="nav nav-footer">
-               <a className="nav-link" href="#">FAQ</a>
+               <a className="nav-link" href="faq">FAQ</a>
                 <a className="nav-link" href="karir">Karir</a>
                 <a className="nav-link" href="#">Aturan Privasi</a>
                 <a className="nav-link" href="#">Syarat dan Ketentuan</a>

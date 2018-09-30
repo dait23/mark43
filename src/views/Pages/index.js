@@ -10,6 +10,8 @@ import ForgotSend from './Forgot/Send';
 import Prescreening from './Prescreening';
 import About from './About';
 import Karir from './Karir';
+import Contact from './Contact';
+import Faq from './Faq';
 export {
   Splash,
   Login,
@@ -21,5 +23,7 @@ export {
   Welcome2,
   Prescreening,
   About,
-  Karir
+  Karir,
+  Contact,
+  Faq
 };

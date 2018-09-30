@@ -24,7 +24,7 @@ class Header extends Component {
           <nav className="nav nav-navbar nav-transform-none ml-auto">
             <a className="nav-link" href="#">Researcher</a>
             <a className="nav-link" href="tentang-kami">Tentang Kami</a>
-            <a className="nav-link" href="#">Hubungi Kami</a>
+            <a className="nav-link" href="hubungi-kami">Hubungi Kami</a>
 
           </nav>
           <div>
